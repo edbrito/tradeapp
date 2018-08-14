@@ -1,5 +1,7 @@
 # Market Trade App
 
+### Quick note: To try out the app, download the jar file and run: java -jar trade.jar and then head over to your browser and go to localhost:4567/frontend. You can also post to /trade and get from /trade (the GET will fetch the list of trade messages).
+
 The purpose of this project was to implement in a couple of hours the backend and frontend, in Java, for a Market Trade Processor.
 The Market Trade Processor should be able to:
 
